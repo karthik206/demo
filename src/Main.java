@@ -12,6 +12,7 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("pushed to github");
             System.out.println('it worked');
+            System.out.println("third time");
         }
     }
 }
